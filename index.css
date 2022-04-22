@@ -1,0 +1,142 @@
+.body {
+    font-family: 'Heebo', sans-serif;
+}
+
+/*header */
+.customNav {
+  width: 100%;
+  background-color: black !important;
+  height: 60px;
+  z-index: 10;
+}
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 8% !important;
+}
+
+.userNav {
+  display: inline-flex;
+  align-items: center;
+
+}
+
+.nav-item {
+  margin: 0px 15px;
+  font-size: 90%;
+
+}
+.nav-link {
+  color: white !important;
+}
+
+.crumbs {
+  padding-top:1%;
+  padding-left: 1%;
+  padding-bottom: 1%;
+  font-size: 80%;
+  align-content: center;
+
+}
+/*hero section*/
+
+p {
+  margin-bottom: 0px;
+}
+h1 {
+  color:black !important;
+  font-family:'Montserrat', sans-serif;
+  font-size: 350%;
+  padding-top: 3%;
+  font-family:'Montserrat', sans-serif;
+  font-weight: normal;
+  line-height: 50pt;
+  text-align: center;
+}
+
+h2 {
+margin-left: 10%;
+margin-top: 5%;
+margin-bottom: 5%;
+}
+
+h4 {
+  color:black !important;
+  font-family:'Montserrat', sans-serif;
+  font-size: 150%;
+  padding-top: 3%;
+  font-family:'Montserrat', sans-serif;
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.hobbies {
+  width: 90%;
+  margin-bottom: 5%;
+}
+.hobbyCard {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+  /*Newsletter section*/
+ 
+    
+  button {
+    font-size:80%;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: #E5AB88;
+    border-color: transparent;
+    float: right;
+    padding:3%;
+    margin-top: 15%;
+    margin-bottom: 4%;
+  }
+
+  .insidebtn {
+    font-size:80%;
+    font-weight: bold;
+    background-color: transparent;
+    border:none;
+    float: right;
+    padding:1%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+  }
+
+  button:hover {
+    background-color: #d88a59;
+  }
+
+  .insidebtn:hover {
+    text-decoration: underline;
+    background-color: transparent;
+  }
+  
+
+
+  .roundPic {
+    margin-top: 10%;
+    width:70%;
+  }
+
+  
+
+  .signup {
+    padding-top: 2%;;
+    font-family:'Montserrat', sans-serif;
+    font-size: 100%;
+    font-weight: lighter;
+  }
+
+  .textFooter {
+    font-family:'Montserrat', sans-serif;
+    font-size: 100%;
+    font-weight: normal;
+    padding-bottom: 5%;
+  }
+
+  .footerText {
+    width: 60%;
+    margin: 0 auto;
+  }
